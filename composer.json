@@ -1,0 +1,17 @@
+{
+    "name": "fei316/annotation",
+    "authors": [
+        {
+            "name": "dengfei",
+            "email": "578796009@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sunny\\": "src/"
+        }
+    },
+    "require": {
+        "doctrine/annotations": "^1.6"
+    }
+}
